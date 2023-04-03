@@ -38,7 +38,7 @@ Follow the respective instructions for setup
 - **Machine Learning**: TensorFlow
 - **Analytics**: Google Analytics
 
-## Technologies Used
+## Credits
 - **React TypeScript**: A popular front-end library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework that enables rapid UI development.
 - **Ionic**: A cross-platform UI toolkit for building mobile and desktop apps using web technologies.
