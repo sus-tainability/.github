@@ -31,6 +31,13 @@ Follow the respective instructions for setup
 - Admin dashboard for managing activities and prizes _[FUTURE FEATURE]_ 
 - Leaderboard for tracking user progress _[FUTURE FEATURE]_ 
 
+## Techology Stack
+- **Frontend**: React TypeScript, Tailwind CSS, Ionic with Capacitor
+- **Backend**: Node.js, ExpressJS, Sequelize, PostgreSQL, Flask
+- **Cloud Services**: Google Cloud
+- **Machine Learning**: TensorFlow
+- **Analytics**: Google Analytics
+
 ## Technologies Used
 - **React TypeScript**: A popular front-end library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework that enables rapid UI development.
@@ -39,3 +46,9 @@ Follow the respective instructions for setup
 - **Node.js**: A JavaScript runtime that enables the development of fast, scalable server-side applications.
 - **Sequelize**: A promise-based ORM for Node.js that supports several SQL dialects and provides easy-to-use abstractions for working with relational databases.
 - **PostgreSQL**: A powerful, open-source object-relational database system that offers robustness, scalability, and reliability.
+- **Flask**: A lightweight web application framework written in Python for building RESTful APIs.
+- **Google Cloud**: A suite of cloud computing services provided by Google for building and deploying applications and websites.
+- **TensorFlow**: An open-source machine learning framework developed by Google for building and training machine learning models.
+- **Google Analytics**: A web analytics service offered by Google that tracks and reports website traffic.
+- **ExpressJS**: A fast, unopinionated, minimalist web framework for Node.js that enables building of robust APIs and web applications.
+
