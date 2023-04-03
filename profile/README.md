@@ -26,6 +26,7 @@ Follow the respective instructions for setup
 - User authentication and authorization
 - Activities for promoting sustainable living
 - Credit system for tracking user progress
+- Computer Vision for Image Inference
 - Redemption of credits for prizes _[FUTURE FEATURE]_
 - Admin dashboard for managing activities and prizes _[FUTURE FEATURE]_ 
 - Leaderboard for tracking user progress _[FUTURE FEATURE]_ 
