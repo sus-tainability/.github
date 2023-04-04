@@ -31,7 +31,7 @@ Follow the respective instructions for setup
 - Admin dashboard for managing activities and prizes _[FUTURE FEATURE]_ 
 - Leaderboard for tracking user progress _[FUTURE FEATURE]_ 
 
-## Techology Stack
+## Technology Stack
 - **Frontend**: React TypeScript, Tailwind CSS, Ionic with Capacitor
 - **Backend**: Node.js, ExpressJS, Sequelize, PostgreSQL, Flask
 - **Cloud Services**: Google Cloud
